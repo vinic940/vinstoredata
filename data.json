@@ -1,0 +1,16 @@
+{
+  "server_status": "true",
+  "server_message": "servidor encontra-se em manutenção favor aguarde retorno",
+  "server_principal": "aHR0cHM6Ly92aW5pY2l1c2Rldi5vbmxpbmUvdmluc3RvcmUv",
+  "version": "1",
+  "sha1":"NjE6RUQ6Mzc6N0U6ODU6RDM6ODY6QTg6REY6RUU6NkI6ODY6NEI6RDg6NUI6MEI6RkE6QTU6QUY6ODE=",
+  "sha256":"QTQ6MEQ6QTg6MEE6NTk6RDE6NzA6Q0E6QTk6NTA6Q0Y6MTU6QzE6OEM6NDU6NEQ6NDc6QTM6OUI6MjY6OTg6OUQ6OEI6NjQ6MEU6Q0Q6NzQ6NUI6QTc6MUI6RjU6REM=",
+  "necessary_update_version": "36",
+  "login": "aHR0cHM6Ly92aW5pY2l1c2Rldi5vbmxpbmUvdmluc3RvcmUvdXNlci5waHA=",
+  "check_maintenance": "aHR0cHM6Ly92aW5pY2l1c2Rldi5vbmxpbmUvdmluc3RvcmUvbWFpbi5waHA=",
+  "token_link": "aHR0cHM6Ly92aW5pY2l1c2Rldi5vbmxpbmUvdmluc3RvcmUvZ2VudG9rZW4ucGhw",
+  "update_link": "https://sketchub.in",
+  "payment_link": "https://www.paypal.me/rohitkumargd",
+  "java_link": "https://codehive.sketchub.in/api/",
+  "play_store_link": "https://play.google.com/store/apps/details?id=in.sketchub.app"
+}
